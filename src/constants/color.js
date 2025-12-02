@@ -1,5 +1,5 @@
-export const backgroundFill = `hsl(30, 44%, 96%)`;
-export const backgroundFillTranslucent = `hsla(30, 44%, 96%, 0.8)`;
+export const backgroundFill = `hsl(211, 29%, 30%)`;
+export const backgroundFillTranslucent = `hsla(211, 29%, 30%, 0.8)`;
 
 export const hillshadeShadow = "hsla(30, 14%, 63%, 1)";
 export const hillshadeHighlight = "hsla(30, 44%, 99%, 1)";
